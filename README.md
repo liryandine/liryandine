@@ -1,0 +1,4 @@
+- 👋 sou @liryandine
+- 🌱estou apredendo a programar recentemente a linguagem de javascript e scratch 
+- 💞️ estou interessada em novas linguagem e programação
+- 📫 meu email de cotato é [email](liryan.silva@escola.pr.gov.br)
